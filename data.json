@@ -1,9 +1,10 @@
 {
   //fanny
-  "visible":"false",
-  "sk1":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740146.png",
+     "visible":"false",
+"sk1":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740146.png",
   "sk2":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740216.png",
-"sk3":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740290.png",
-  "sk4":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740358.png",
-"script":"",
+    "sk3":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740290.png",
+      "sk4":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740358.png",
+"elitescript":"https://github.com/Mexi23/February/raw/main/fanny_def_aot.zip",
+  "epicscript":"https://github.com/Mexi23/February/raw/main/fanny_def_aot.zip",
 }
